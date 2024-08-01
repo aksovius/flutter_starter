@@ -1,0 +1,8 @@
+{
+  "accessibility.signals.progress": {
+    "sound": "off"
+  },
+  "accessibility.signals.chatResponseReceived": {
+    "sound": "off"
+  }
+}
